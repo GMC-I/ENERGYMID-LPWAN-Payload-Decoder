@@ -9,6 +9,12 @@ The decoder is designed for use in **LoRaWAN network servers** such as:
 - ChirpStack
 - Actility's ThingPark
 
+## Download
+
+Stable versions are available under [Releases](../../releases).
+
+**[→ Latest Release](../../releases/latest)**
+
 ## General Information
 
 - **Uplink port:** `2`
