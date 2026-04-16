@@ -1,3 +1,5 @@
+[![GOSSEN METRAWATT](https://dev.gmc-instruments.de/energymid-lpwan-payload-decoder/images/gossen-metrawatt-logo.png)](https://gossenmetrawatt.com/)
+
 # LoRaWAN Payload Decoder – Energy Meter
 
 This repository contains a **LoRaWAN uplink payload decoder** for energy meter series [ENERGYMID LPWAN](https://www.gossenmetrawatt.de/produkte/messen-steuern-regeln/energiemanagement/mid-zertifizierte-energiezaehler/energymid-em2281-em2389/energymid-lpwan/) by [GOSSEN METRAWATT](https://gossenmetrawatt.com/).
