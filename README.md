@@ -3,6 +3,8 @@
 This repository contains a **LoRaWAN uplink payload decoder** for energy meter series [ENERGYMID LPWAN](https://www.gossenmetrawatt.de/produkte/messen-steuern-regeln/energiemanagement/mid-zertifizierte-energiezaehler/energymid-em2281-em2389/energymid-lpwan/) by [GOSSEN METRAWATT](https://gossenmetrawatt.com/).
 The decoder converts raw binary payloads into **structured JSON data** including timestamp, energy values, and device error status.
 
+[![ENERGYMID LPWAN](https://dev.gmc-instruments.de/energymid-lpwan-payload-decoder/images/u2289-v039-energymid.png)](https://www.gossenmetrawatt.de/produkte/messen-steuern-regeln/energiemanagement/mid-zertifizierte-energiezaehler/energymid-em2281-em2389/energymid-lpwan/)
+
 The decoder is designed for use in **LoRaWAN network servers** such as:
 
 - The Things Stack (v3)
